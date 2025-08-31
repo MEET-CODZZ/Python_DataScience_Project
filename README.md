@@ -18,6 +18,7 @@ The app predicts student performance based on dataset inputs and visualizes insi
 - Matplotlib
 - Pickle
 - HTML/CSS
+- JavaScript
 
 ## Installation
 ```bash

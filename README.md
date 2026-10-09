@@ -1,7 +1,7 @@
-# Student Performance Prediction - Flask Web App
+# Car Price Prediction System - Flask Web App
 
 This is a Machine Learning based project built using **Python, Flask, Pandas, NumPy, Matplotlib, and Pickle**.  
-The app predicts student performance based on dataset inputs and visualizes insights using charts.  
+The app predicts car price based on dataset inputs and visualizes insights using charts.  
 
 ## Features
 - CSV dataset preprocessing with Pandas
